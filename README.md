@@ -1,2 +1,23 @@
-# mine-sixty-seconds
-地心六十秒 · 3D mine-survival browser game
+# 地心六十秒 · SIXTY SECONDS BELOW
+
+3D 矿难生存叙事游戏。60 秒搜刮物资，地下硐室生存 7 天，等待地面救援。
+
+## 立即游玩
+
+https://xzr-cumtb.github.io/mine-sixty-seconds/
+
+## 操作
+
+- WASD 移动，Shift 冲刺，拖动鼠标环视
+- E / Space 拾取或撤离，Esc 暂停
+- 手机：左侧摇杆移动，右侧按钮互动
+
+## 玩法
+
+- 在 60 秒内带回最多 8 件物资
+- 找到应急电台和电池，并在升降机撤离
+- 每天消耗口粮和饮水，处理 6 段生存事件
+- 发送救援坐标，坚持到第 7 天
+- 5 种结局
+
+由 Three.js + Vite 构建，单文件运行，无外部资源依赖。
